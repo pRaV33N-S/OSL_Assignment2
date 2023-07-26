@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\bin\Debug\OSL_Assignment2.exe.config
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\bin\Debug\OSL_Assignment2.exe
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\bin\Debug\OSL_Assignment2.pdb
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\obj\Debug\OSL_Assignment2.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\obj\Debug\OSL_Assignment2.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\obj\Debug\OSL_Assignment2.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\obj\Debug\OSL_Assignment2.exe
+D:\Raven\Practice Exercise\C#\OSL_Assignment2\obj\Debug\OSL_Assignment2.pdb
